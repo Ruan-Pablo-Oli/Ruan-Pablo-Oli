@@ -1,31 +1,34 @@
-## Hi there 👋
-### Hi there 👋
-<br> 
-- ML projects 
-<br>
+# Ruan Pablo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-Pablo-Oli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Pablo-Oli&theme=radical&layout=compact)
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
-  <img align="center" alt="Arduino" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
-<!--
-**LuisfgnCS/LuisfgnCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-##
-  
-<div> 
- <a href = "https://www.linkedin.com/in/gabriel-vitor-grossi-louren%C3%A7o-285311276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:gabrielvitorcom@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/232177678172684289/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "https://wa.me/5511910449191"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruan-Pablo-Oli/Ruan-Pablo-Oli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruan-Pablo-Oli/Ruan-Pablo-Oli/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ruan-Pablo-Oli/Ruan-Pablo-Oli/output/github-contribution-grid-snake.svg">
-</picture>
-  
-<\div>
+🔹 Fique a vontade para olhar meus projetos, atualmente sou estudante de ciência da computação na UFCA e constantemente me aventurando em novas áreas da tecnologia.  
+
+💡 **Sobre mim**  
+- 🎯 Sou Apaixonado por microcontroladores e projetos que envolvam dispositivos embarcados. 
+- 🔧 Atualmente estou trabalhando com desenvolvimento back-end usando o framework Django.
+- 📚 Estou Sempre aprendendo sobre linux, que é o sistema operacional que mais uso, constantemente tendo que resolver problemas e desenvolvendo shell scripts. Não me peça para compartilhar a tela no discord :full_moon_with_face:. 
+
+---
+
+## 🚀 Tecnologias & Ferramentas  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microcontroladores](https://img.shields.io/badge/Microcontroladores-%230078D7.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Estatísticas  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-Pablo-Oli&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Pablo-Oli&layout=compact&theme=tokyonight)  
+
+---
+## 🌍 Onde me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-pablo-6b579a233)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruan_furtad)  
+---
+  ✉️ Entre em contato: ruanpablooliveira20@gmail.com  
