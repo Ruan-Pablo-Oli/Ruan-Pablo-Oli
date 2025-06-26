@@ -3,9 +3,9 @@
 🔹 Fique a vontade para olhar meus projetos, atualmente sou estudante de ciência da computação na UFCA e constantemente me aventurando em novas áreas da tecnologia.  
 
 💡 **Sobre mim**  
-- 🎯 Sou Apaixonado por microcontroladores e projetos que envolvam dispositivos embarcados. 
-- 🔧 Atualmente estou trabalhando com desenvolvimento back-end usando o framework Django.
-- 📚 Estou Sempre aprendendo sobre linux, que é o sistema operacional que mais uso, constantemente tendo que resolver problemas e desenvolvendo shell scripts. Não me peça para compartilhar a tela no discord :full_moon_with_face:. 
+- 🎯 Sou Apaixonado por redes e entusiasta na área de cybersecurity. 
+- 🔧 Atualmente estou estudando Java Spring boot para desenvolvimento de API's.
+- 📚 Estou Sempre aprendendo sobre linux, que é o sistema operacional que mais uso, constantemente tendo que resolver problemas e fazendo ricing. Não me peça para compartilhar a tela no discord :full_moon_with_face:. 
 
 ---
 
