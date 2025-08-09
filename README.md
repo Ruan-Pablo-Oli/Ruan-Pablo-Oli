@@ -24,11 +24,10 @@
 ---
 
 ## 📊 Estatísticas  
-![Ruan Pablo Oli GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruan-Pablo-Oli&show_icons=true&theme=tokyonight) 
-<p align="center>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Pablo-Oli&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Pablo-Oli&show_icons=true&theme=tokyonight" height="165em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Pablo-Oli&layout=compact&theme=tokyonight" height="165em"/>
 </p>
-
 ---
 ## 🌍 Onde me encontrar  
 
