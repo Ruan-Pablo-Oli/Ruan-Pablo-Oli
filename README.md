@@ -28,7 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Pablo-Oli&show_icons=true&theme=tokyonight" height="165em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Pablo-Oli&layout=compact&theme=tokyonight" height="165em"/>
 </p>
+
 ---
+
+
 ## 🌍 Onde me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-pablo-6b579a233)  
