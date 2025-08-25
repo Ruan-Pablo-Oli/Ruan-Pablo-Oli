@@ -25,7 +25,7 @@
 
 ## 📊 Estatísticas  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Pablo-Oli&show_icons=true&theme=shades-of-purple" height="165em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Pablo-Oli&show_icons=true&theme=tokyonight" height="165em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Pablo-Oli&layout=compact&theme=tokyonight" height="165em"/>
 </p>
 
