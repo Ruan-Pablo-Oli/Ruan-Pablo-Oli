@@ -1,12 +1,5 @@
 # Ruan Pablo
 
-🔹 Fique a vontade para olhar meus projetos, atualmente sou estudante de ciência da computação na UFCA e constantemente me aventurando em novas áreas da tecnologia.  
-
-💡 **Sobre mim**  
-- 🎯 Sou Apaixonado por redes, entusiasta na área de cybersecurity mas tenho como área de estudo principal desenvolvimento backend. 
-- 🔧 Atualmente estou estudando Java Spring boot para desenvolvimento de API's, usando banco de dados como postgreSQL e mongoDB.
-- 📚 Estou Sempre aprendendo sobre linux, que é o sistema operacional que mais uso, constantemente tendo que resolver problemas e fazendo ricing. Não me peça para compartilhar a tela no discord :full_moon_with_face:. 
-
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
