@@ -23,14 +23,6 @@
 
 ---
 
-## 📊 Estatísticas  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruan-pablo-oli&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-pablo-oli&layout=compact&theme=tokyonight&cache_seconds=1800" height="165em"/>
-</p>
-
----
-
 
 ## 🌍 Onde me encontrar  
 
